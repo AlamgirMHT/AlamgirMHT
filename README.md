@@ -3,7 +3,7 @@
 
 A passionate frontend programmer from Bangladesh
 
-Skills: REACT / JAV / HTML / CSS / PHP / Java / Python
+Skills: Python / JAV / HTML / CSS / PHP /
 
 - 🔭 I’m currently working on Ethical hacker 
 - 🌱 I’m currently learning Ethical hacking 
@@ -15,14 +15,6 @@ Skills: REACT / JAV / HTML / CSS / PHP / Java / Python
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlamgirMHT)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlamgirMHT&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlamgirMHT)  
-
-![GitHub metrics](https://metrics.lecoq.io/AlamgirMHT)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlamgirMHT)  
 
 ![Profile views](https://gpvc.arturio.dev/AlamgirMHT)  
 
