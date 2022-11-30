@@ -1,7 +1,6 @@
-### Hi there 👋, I'm Alamgir-MHT
-#### Ethical hacker
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+ALAMGIR+Hossain+MHT;+But+It's+Not+A+Just+Name+Broh;It's+A+Brand;Thanks+A+Lots+Everyone+LvUall)](https://git.io/typing-svg)
 
-A passionate frontend programmer from Bangladesh
+<h3 align="center">Im a Bangladeshi Spammer</h3>
 
 - 🔭 I’m currently working on Ethical hacker 
 - 🌱 I’m currently learning Ethical hacking 
