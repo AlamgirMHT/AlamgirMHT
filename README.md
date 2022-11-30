@@ -12,7 +12,8 @@ A passionate frontend programmer from Bangladesh
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlamgirMHT)](https://github.com/ryo-ma/github-profile-trophy)
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/AlamgirMHT"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=AlamgirMHT&theme=monoai"></a>
 
 
 ### ⚙️ &nbsp; Language & programming
