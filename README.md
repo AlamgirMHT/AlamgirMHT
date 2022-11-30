@@ -25,3 +25,27 @@ Skills: REACT / JAV / HTML / CSS / PHP / Java / Python
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlamgirMHT)  
 
 ![Profile views](https://gpvc.arturio.dev/AlamgirMHT)  
+
+apt update
+
+apt upgrade
+
+pkg install python
+
+pkg install git
+
+pkg install python2
+
+pkg install python3
+
+pip install requests
+
+pip2 install requests
+
+pip install mechanize
+
+pip2 install mechanize
+
+pip install future
+
+pip2 install future
