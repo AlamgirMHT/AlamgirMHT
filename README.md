@@ -46,7 +46,5 @@
 
 ### Profile Visitors
 
-![Profile views](https://gpvc.arturio.dev/AlamgirMHT)
-
 ![Visitor Count](https://profile-counter.glitch.me/AlamgirMHT/count.svg)
 
