@@ -1,5 +1,4 @@
-- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
-
+- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)  <h2Alamgir Hossain</h2>
 
 <h2 align="center">Welcome to My profile</h2>
 
