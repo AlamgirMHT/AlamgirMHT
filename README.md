@@ -55,11 +55,6 @@
 
 
 
-
-
-<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
-
-
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
 
@@ -71,4 +66,9 @@
 ![AlamgirMHT GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlamgirMHT&theme=radical)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
+
+
 
