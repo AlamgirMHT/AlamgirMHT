@@ -55,10 +55,7 @@
 
 
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-
-<a href="https://github.com/AlamgirMHT"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=AlamgirMHT&theme=monokai"></a>
 
 
 ![AlamgirMHT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlamgirMHT&show_icons=true&theme=chartreuse-dark)  
