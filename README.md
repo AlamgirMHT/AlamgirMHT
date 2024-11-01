@@ -52,3 +52,23 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/AlamgirMHT/count.svg)
 
+
+
+
+- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
+
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
+
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+
+
+<a href="https://github.com/AlamgirMHT"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=AlamgirMHT&theme=monokai"></a>
+
+
+![AlamgirMHT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlamgirMHT&show_icons=true&theme=chartreuse-dark)  
+
+![AlamgirMHT GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlamgirMHT&theme=radical)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
