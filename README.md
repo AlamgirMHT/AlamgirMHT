@@ -52,12 +52,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/AlamgirMHT/count.svg)
 
-
-
-
-
-
-
 ![AlamgirMHT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlamgirMHT&show_icons=true&theme=chartreuse-dark)  
 
 ![AlamgirMHT GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlamgirMHT&theme=radical)
